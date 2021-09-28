@@ -1,2 +1,0 @@
-# goo-log
-golang log
